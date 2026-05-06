@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { 
   Search, CreditCard, User, FileText, CheckCircle2, 
   History, Printer, BarChart3, Clock, ArrowRight,
-  ShieldCheck, Wallet, ChevronRight, Zap, Banknote
+  ShieldCheck, Wallet, ChevronRight, Zap, Banknote, TrendingUp
 } from 'lucide-react';
 import { 
   BarChart, Bar, XAxis, YAxis, CartesianGrid, 
